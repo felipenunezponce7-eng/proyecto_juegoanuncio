@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 02cbb0a872d21f54b9357cb2ffbddc6a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - balita: {fileID: 2268292651622430857, guid: de224f5620ce5f5458ba1a38c022010f, type: 3}
+  - arm: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

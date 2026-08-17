@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 9c1a262939edd754a89a74faa0ec9bd8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - troopPrefab: {fileID: 1047724519691324, guid: d11e73c58ffcda248bb103a8452b5045, type: 3}
+  - jugador: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
